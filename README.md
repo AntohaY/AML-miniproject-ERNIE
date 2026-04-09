@@ -1,1 +1,1 @@
-# AML-miniproject-BERNIE
+# AML-miniproject-ERNIE
